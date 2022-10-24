@@ -2,7 +2,7 @@
 ## Documentation along this project.
 
 Authors:
-2190743 Adrián Montañez
+2190743 Adrián Montañez //
 2191322 Camilo Murcia
 
 Link to the main video explaining the experiment
